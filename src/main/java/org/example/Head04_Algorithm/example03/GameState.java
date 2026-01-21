@@ -30,12 +30,12 @@ public class GameState implements Serializable{
         }
     }
 
-    public static void GameState load(String filename){
-        try(ObjectInputStream ois = new ObjectInputStream(new FileInputStream(filename))) {
-            return (GameState) ois.readObject();
-        }catch (IOException | ClassNotFoundException e) {
-            System.err.println("로드 실패: "+ e.getMessage());
-            return null;
-        }
-    }
+//    public static void GameState load(String filename){
+//        try(ObjectInputStream ois = new ObjectInputStream(new FileInputStream(filename))) {
+//            return (GameState) ois.readObject();
+//        }catch (IOException | ClassNotFoundException e) {
+//            System.err.println("로드 실패: "+ e.getMessage());
+//            return null;
+//        }
+//    }
 }
