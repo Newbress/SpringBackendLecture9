@@ -13,10 +13,34 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringBootMVC" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringBootMVC" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringDataJpa" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringDataJpa" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/SpringHello" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/SpringHello" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/coffeeorder" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/coffeeorder" />
           </set>
         </option>
       </GradleProjectSettings>
