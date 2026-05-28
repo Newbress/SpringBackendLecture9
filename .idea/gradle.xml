@@ -13,6 +13,22 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringAsyncDemo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringAsyncDemo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringAsyncExceptionDemo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringAsyncExceptionDemo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/SpringBootMVC" />
         <option name="modules">
           <set>
@@ -29,6 +45,14 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringEventDemo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringEventDemo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/SpringHello" />
         <option name="modules">
           <set>
@@ -37,10 +61,58 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringSecurity" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringSecurity" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringStabilityHigh" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringStabilityHigh" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringTDD" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringTDD" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/coffeeorder" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/coffeeorder" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-executor-future-demo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-executor-future-demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-thread-basic-demo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-thread-basic-demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/javacompletablefuturedemo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/javacompletablefuturedemo" />
           </set>
         </option>
       </GradleProjectSettings>
